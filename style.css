@@ -1,0 +1,67 @@
+body {
+	background-color: #FAEBD7;
+}
+
+#tampilan{
+	background-color:#F5F5DC;
+	width:1000px;
+	height:1000px;
+	margin:auto;
+}
+
+#header{
+	background-color: #FFD700;
+	width:1450px;
+	height:500px;
+	overflow: hidden;
+}
+
+
+
+#menu{
+	background-color: yellow;
+	width:850px;
+	height:60px;
+	overflow: hidden;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+#menu ul li{
+	display: inline; margin-left: 20px;line-height: 30px; font-size: 18px; border: 1px; padding: 3px 15px; 
+	border-radius: 10px; background:#DEB887;
+}
+#menu ul li : hover{
+	background: white;
+}
+#menu ul li a{color: #008B8B}
+
+#isi{
+	background-color: #DEB887;
+	width:1000px;
+	height:1250px;
+}
+
+#kiri{
+	background-color: #E9967A;
+	width:500px;
+	height:1250px;
+	float: left;
+}
+
+#kanan{
+	background-color: #8FBC8F;
+	width:150px;
+	height:1250px;
+	float: left;
+}
+
+#footer{
+	background-color: white ;
+	width:1450px;
+	height:20px;
+	overflow: hidden;
+}
